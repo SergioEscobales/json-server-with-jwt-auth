@@ -1,0 +1,18 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode",
+      "id": 2, "title": "json-server-2", "author": "typipollas",
+      "id": 3, "title": "json-server-3", "author": "typipollas3"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 2 },
+    { "id": 3, "body": "some comment", "postId": 3 }
+  ],
+  "profile": [
+    { "name": "typicode" },
+    { "name": "typipollas2" },
+    { "name": "typipollas3" }
+  ]
+}
